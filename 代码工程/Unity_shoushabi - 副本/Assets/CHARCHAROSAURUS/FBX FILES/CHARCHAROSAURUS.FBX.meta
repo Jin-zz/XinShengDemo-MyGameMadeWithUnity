@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: b6e8efccc8a12ed498b3fbd01a0ff611
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bo__te001
+    100002: CHARCHAROSAURSUS_
+    100004: CHARCHAROSAURSUS_ Head
+    100006: CHARCHAROSAURSUS_ L Calf
+    100008: CHARCHAROSAURSUS_ L Clavicle
+    100010: CHARCHAROSAURSUS_ L Finger0
+    100012: CHARCHAROSAURSUS_ L Finger01
+    100014: CHARCHAROSAURSUS_ L Finger1
+    100016: CHARCHAROSAURSUS_ L Finger11
+    100018: CHARCHAROSAURSUS_ L Foot
+    100020: CHARCHAROSAURSUS_ L Forearm
+    100022: CHARCHAROSAURSUS_ L Hand
+    100024: CHARCHAROSAURSUS_ L Thigh
+    100026: CHARCHAROSAURSUS_ L Toe0
+    100028: CHARCHAROSAURSUS_ L UpperArm
+    100030: CHARCHAROSAURSUS_ Neck
+    100032: CHARCHAROSAURSUS_ Neck1
+    100034: CHARCHAROSAURSUS_ Neck2
+    100036: CHARCHAROSAURSUS_ Pelvis
+    100038: CHARCHAROSAURSUS_ Queue de cheval 1
+    100040: CHARCHAROSAURSUS_ R Calf
+    100042: CHARCHAROSAURSUS_ R Clavicle
+    100044: CHARCHAROSAURSUS_ R Finger0
+    100046: CHARCHAROSAURSUS_ R Finger01
+    100048: CHARCHAROSAURSUS_ R Finger1
+    100050: CHARCHAROSAURSUS_ R Finger11
+    100052: CHARCHAROSAURSUS_ R Foot
+    100054: CHARCHAROSAURSUS_ R Forearm
+    100056: CHARCHAROSAURSUS_ R Hand
+    100058: CHARCHAROSAURSUS_ R Thigh
+    100060: CHARCHAROSAURSUS_ R Toe0
+    100062: CHARCHAROSAURSUS_ R UpperArm
+    100064: CHARCHAROSAURSUS_ Spine
+    100066: CHARCHAROSAURSUS_ Spine1
+    100068: CHARCHAROSAURSUS_ Tail
+    100070: CHARCHAROSAURSUS_ Tail1
+    100072: CHARCHAROSAURSUS_ Tail2
+    100074: CHARCHAROSAURSUS_ Tail3
+    100076: CHARCHAROSAURSUS_CLAW_L_1
+    100078: CHARCHAROSAURSUS_CLAW_L_2
+    100080: CHARCHAROSAURSUS_CLAW_R_1
+    100082: CHARCHAROSAURSUS_CLAW_R_2
+    100084: //RootNode
+    100086: CHARCHAROSAURUS
+    100088: Factice001
+    100090: Factice002
+    400000: Bo__te001
+    400002: CHARCHAROSAURSUS_
+    400004: CHARCHAROSAURSUS_ Head
+    400006: CHARCHAROSAURSUS_ L Calf
+    400008: CHARCHAROSAURSUS_ L Clavicle
+    400010: CHARCHAROSAURSUS_ L Finger0
+    400012: CHARCHAROSAURSUS_ L Finger01
+    400014: CHARCHAROSAURSUS_ L Finger1
+    400016: CHARCHAROSAURSUS_ L Finger11
+    400018: CHARCHAROSAURSUS_ L Foot
+    400020: CHARCHAROSAURSUS_ L Forearm
+    400022: CHARCHAROSAURSUS_ L Hand
+    400024: CHARCHAROSAURSUS_ L Thigh
+    400026: CHARCHAROSAURSUS_ L Toe0
+    400028: CHARCHAROSAURSUS_ L UpperArm
+    400030: CHARCHAROSAURSUS_ Neck
+    400032: CHARCHAROSAURSUS_ Neck1
+    400034: CHARCHAROSAURSUS_ Neck2
+    400036: CHARCHAROSAURSUS_ Pelvis
+    400038: CHARCHAROSAURSUS_ Queue de cheval 1
+    400040: CHARCHAROSAURSUS_ R Calf
+    400042: CHARCHAROSAURSUS_ R Clavicle
+    400044: CHARCHAROSAURSUS_ R Finger0
+    400046: CHARCHAROSAURSUS_ R Finger01
+    400048: CHARCHAROSAURSUS_ R Finger1
+    400050: CHARCHAROSAURSUS_ R Finger11
+    400052: CHARCHAROSAURSUS_ R Foot
+    400054: CHARCHAROSAURSUS_ R Forearm
+    400056: CHARCHAROSAURSUS_ R Hand
+    400058: CHARCHAROSAURSUS_ R Thigh
+    400060: CHARCHAROSAURSUS_ R Toe0
+    400062: CHARCHAROSAURSUS_ R UpperArm
+    400064: CHARCHAROSAURSUS_ Spine
+    400066: CHARCHAROSAURSUS_ Spine1
+    400068: CHARCHAROSAURSUS_ Tail
+    400070: CHARCHAROSAURSUS_ Tail1
+    400072: CHARCHAROSAURSUS_ Tail2
+    400074: CHARCHAROSAURSUS_ Tail3
+    400076: CHARCHAROSAURSUS_CLAW_L_1
+    400078: CHARCHAROSAURSUS_CLAW_L_2
+    400080: CHARCHAROSAURSUS_CLAW_R_1
+    400082: CHARCHAROSAURSUS_CLAW_R_2
+    400084: //RootNode
+    400086: CHARCHAROSAURUS
+    400088: Factice001
+    400090: Factice002
+    2300000: Bo__te001
+    3300000: Bo__te001
+    4300000: CHARCHAROSAURUS
+    4300002: Bo__te001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CHARCHAROSAURUS
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
