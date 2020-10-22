@@ -25,26 +25,26 @@
 
 游戏界面如下：
 
-![image-20200703213717415](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213717415.png)
+![image-20200703213717415](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213717415.png)
 
-![image-20200703212806853](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703212806853.png)
+![image-20200703212806853](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703212806853.png)
 
 
 
-![image-20200703212857919](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703212857919.png)
+![image-20200703212857919](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703212857919.png)
 
-![image-20200703212931544](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703212931544.png)
+![image-20200703212931544](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703212931544.png)
 
-![image-20200703213001628](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213001628.png)
+![image-20200703213001628](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213001628.png)
 
-![image-20200703213012625](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213012625.png)
+![image-20200703213012625](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213012625.png)
 
-![image-20200703213625463](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213625463.png)
+![image-20200703213625463](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213625463.png)
 
-![image-20200703213508195](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213508195.png)
+![image-20200703213508195](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213508195.png)
 
-![image-20200703213552678](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213552678.png)
+![image-20200703213552678](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213552678.png)
 
-![image-20200703213319920](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213319920.png)
+![image-20200703213319920](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213319920.png)
 
-![image-20200703213338071](https://gitee.com/sparkle__zz/markdown-pics/raw/master/image-20200703213338071.png)
+![image-20200703213338071](https://gitee.com/sparkle_zz/markdown-pics/raw/master/image-20200703213338071.png)
